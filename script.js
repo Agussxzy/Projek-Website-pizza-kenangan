@@ -8,7 +8,7 @@ function uimenu(){
     <div class="card-body">
       <h5 class="card-title">${menu.nama}</h5>
       <p class="card-text">${menu.deskripsi}</p>
-      <a href="#" class="btn btn-primary">Go somewhere</a>
+      <a href="#" class="btn btn-primary">Buy</a>
     </div>
   </div>
   </div>`);
@@ -41,7 +41,7 @@ $('.nav-link').on('click', function(){
     <div class="card-body">
       <h5 class="card-title">${listmenu.nama}</h5>
       <p class="card-text">${listmenu.deskripsi}</p>
-      <a href="#" class="btn btn-primary">Go somewhere</a>
+      <a href="#" class="btn btn-primary">Buy</a>
     </div>
   </div>
   </div>`;
